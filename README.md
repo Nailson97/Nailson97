@@ -17,7 +17,7 @@ Me chamo <b> Nailson Sousa</b>.
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617148133937.png" width="400px" />
 
 - 💻 Estou estudando Front-end com **HTML**, **CSS**, **JAVASCRIPT** e **REACT JS**;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
