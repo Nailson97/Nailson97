@@ -1,6 +1,6 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
-<a href="https://github.com/strongreen" target="_blank">
+<a href="https://github.com/Nailson97/" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
@@ -14,15 +14,12 @@ Me chamo <b> Nailson Sousa</b>.
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Nas horas livres produzo conteúdos de tecnologia para as plataformas:
-</p>
-<p align="left" >
 
 **Meus interesses pessoais:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Estou estudando Front-end com **HTML**, **CSS** e **JAVASCRIPT**;
+- 💻 Estou estudando Front-end com **HTML**, **CSS** e **JAVASCRIPT**;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para nailsonsousa97@gmail.com
