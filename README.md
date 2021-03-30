@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<h1 align="center"> Seja bem vindo e bem vinda! </h1>
 <hr />
 <a href="https://github.com/Nailson97/" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -19,7 +19,7 @@ Me chamo <b> Nailson Sousa</b>.
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 💻 Estou estudando Front-end com **HTML**, **CSS** e **JAVASCRIPT**;
+- 💻 Estou estudando Front-end com **HTML**, **CSS**, **JAVASCRIPT** e **REACT JS**;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para nailsonsousa97@gmail.com
@@ -29,7 +29,7 @@ Me chamo <b> Nailson Sousa</b>.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nailson97&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Nailson-Sousa" />
 </p>
 
 **Linguagens e ferramentas:**  
