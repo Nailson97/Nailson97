@@ -7,7 +7,7 @@
   
 </p>
 <p align="left" >
-   Me chamo<b>Nailson Sousa</b>.
+   Me chamo<b> Nailson Sousa</b>.
 </p>
 <p align="left" >
 <a href="https://www.linkedin.com/in/nailson-sousa-a761851ba/" target="_blank">
