@@ -6,9 +6,9 @@
 <p align="left" > 
   
 </p>
-<h2 align="center" >
+<h1 align="center" >
    Me chamo<b> Nailson Sousa</b>.
-</h2>
+</h1>
 <p align="left" >
 <a href="https://www.linkedin.com/in/nailson-sousa-a761851ba/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
