@@ -17,7 +17,6 @@
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617148133937.png" width="400px" />
 
-- 💻 Estou estudando Front-end com **HTML**, **CSS**, **JAVASCRIPT** e **REACT JS**;
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para nailsonsousa97@gmail.com
