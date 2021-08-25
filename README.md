@@ -15,7 +15,7 @@
 </a>
 <p align="left" >
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617148133937.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617148133937.pn" width="400px" />
 
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
