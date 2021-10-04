@@ -1,5 +1,4 @@
-<h1 align="center"> Seja bem vindo e bem vinda! </h1>
-<hr />
+<h1 align="left">Oi! Eu sou Nailson Sousa<h1/>
 <a href="https://github.com/Nailson97/" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
