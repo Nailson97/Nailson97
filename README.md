@@ -11,8 +11,7 @@
 
 
 - 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para nailsonsousa97@gmail.com
+- 💬 Minhas tecnologias favoritas são ReactJs e Javascript;
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailson97&layout=compact&theme=graywhite&title_color=268bd2" alt="Nailson-Sousa" />
