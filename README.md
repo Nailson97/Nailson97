@@ -2,7 +2,7 @@
 <a href="https://github.com/Nailson97/" target="_blank">
   
 <p align="left" >
-<a href="https://www.linkedin.com/in/nailson-sousa-a761851ba/" target="_blank">
+<a href="https://www.linkedin.com/in/nailson-soares-a761851ba/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
