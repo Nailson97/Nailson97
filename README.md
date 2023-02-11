@@ -9,7 +9,7 @@
 
 
 
-- 💼 Sou apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 💼 Gosto muito de tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 💬 Minhas tecnologias favoritas são ReactJs e Javascript;
 
 <p>
